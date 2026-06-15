@@ -13,8 +13,9 @@
 [4] Info
 [0] Exit
 
-![Captura](Screenshot/principal.png)
+
 ```
+![Captura](Screenshot/principal.png)
 
 ---
 
